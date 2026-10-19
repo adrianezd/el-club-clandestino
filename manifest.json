@@ -1,0 +1,30 @@
+{
+  "name": "El club clandestino - Juego de fiesta",
+  "short_name": "El club",
+  "description": "Fiestas secretas, sospecha creciente y chivatos que venden al club. Juego largo de faroles.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d0806",
+  "theme_color": "#0d0806",
+  "lang": "es",
+  "categories": [
+    "games",
+    "entertainment"
+  ],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
